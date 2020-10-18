@@ -1,5 +1,7 @@
 # CRUDAPI
-API for simple CRUD operations in Docker Containerization
+API for simple CRUD operations in Docker Containerization.
+
+You can get all the files in master branch!!!
 
 This API is built in Django framework with postgresql database and in docker containerization.
 
