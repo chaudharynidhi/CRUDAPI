@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+# Create your models here. Made according to the dataset sent
 class EcommerceCustomerData(models.Model):
     id = models.IntegerField(auto_created=True, primary_key=True)
     name = models.CharField(max_length=250, default='Unnamed Substance')
