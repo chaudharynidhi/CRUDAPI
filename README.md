@@ -45,3 +45,4 @@ If any error occurs in docker file kindly use:
 or check on 
 ``` docker-compose logs``` 
 and act accordingly.
+change the secret key according to your Django application
